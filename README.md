@@ -15,9 +15,10 @@ A simple and interactive Command Line Interface (CLI) Calculator built using Pyt
   - Error handling for invalid inputs and division by zero.
 
 - **Advanced Calculator (`advance_calculator.py`)**:
-  - Modular function architecture (`add`, `subtract`, `multiply`, `divide`, `modulus`, `power`).
+  - Modular function architecture (`add`, `subtract`, `multiply`, `divide`, `modulus`, `power`,`floor_division`).
   - Interactive loop (`while True`) allowing multiple calculations without restarting.
-  - Options for Modulus (`%`) and Power (`**`).
+  - Options for Modulus (`%`) , Power (`**`) and Floor Division (`//`).
+  - History/Transaction of Calculations
   - Clean exit option (`Exit`).
   - Comprehensive exception handling (`ValueError`, `ZeroDivisionError`).
 
